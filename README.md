@@ -1,3 +1,2 @@
 # NZT-48
-DLL Injector (UNDETECTABLE)
-FREE PROJECT FOR USE.
+DLL Injector
